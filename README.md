@@ -1,1 +1,0 @@
-# Project-Covid-19-Python-Folium
